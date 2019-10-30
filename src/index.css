@@ -1,0 +1,7 @@
+body{
+    background: url('./assets/boat.jpg') 0 0 no-reapat;
+}
+
+::placeholder {
+    color:#999;
+}
